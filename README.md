@@ -35,6 +35,8 @@ SO THAT our own site is optimized for search engines
 * Make application's links all function correctly.
 
 ## Screen Shot
+![screen shot horiseon](https://user-images.githubusercontent.com/108561728/182993740-c8267cc5-daa1-4531-bcc5-66279271bba5.png)
+
 
 ---
 
