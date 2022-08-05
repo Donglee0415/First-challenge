@@ -1,4 +1,4 @@
-# HTML and CSS Git Challenge: CoDe Refactor
+# HTML and CSS Git Challenge: Code Refactor
 
 ## Background
 * This is my first challenge for HTML and CSS
@@ -30,10 +30,12 @@ SO THAT our own site is optimized for search engines
 * Add 'alt' attributes to in case of image is not load.
 * Elements follow a logical structure.
 
-
-
----
-
 ## Extra Information
 * Write comments on CSS to find easy and more information.
 * Make application's links all function correctly.
+
+## Screen Shot
+
+---
+
+Deployment: 
