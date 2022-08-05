@@ -1,25 +1,26 @@
+/* apply for all element using '*'sellector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*body back ground color*/
 body {
     background-color: #d9dcd6;
 }
-
+/* header effect*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*This is for header font size and display*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* give effet for 'seo' at header*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -36,21 +37,21 @@ body {
 .header nav ul {
     list-style-type: none;
 }
-
+/* This is header navigation list margin and display*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* This is anchor tag option*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* This is paragraph font size*/
 p {
     font-size: 16px;
 }
-
+/* style for image on the main webpage*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,23 +60,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* paragraph place on the left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* paragraph place on the right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* effect for navigation bar*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* effect for aside information*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,55 +87,55 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* This is effect for aside information*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* This is effect for aside information*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* This is effect for aside information*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* This is margin and alignment for aside information h3 */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* This is margin and alignment for aside information h3 */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* This is margin and alignment for aside information h3 */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Image for aside information*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Image for aside information*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Image for aside information*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* effect for search-engine-optimization h2 and paragraph */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,7 +144,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* effect for online-reputation-management h2 and paragraph */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,7 +153,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* effect for social-media-marketing h2 and paragraph */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,41 +162,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* This is image for search-engine-optimization*/
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* This is image for online=reputation-management*/
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* This is image for social-media-marketing*/
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* effect for navigation bar on the top*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* effect for navigation bar on the top*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* effect for navigation bar on the top*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer effect*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* footer font size*/
 .footer h2 {
     font-size: 20px;
 }

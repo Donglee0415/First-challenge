@@ -1,7 +1,8 @@
-# 
+# Background
+* This is my first challenge for HTML and
 
 
-
+# User Story
 * AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -20,24 +21,17 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## Assets
+## Change Applied
+* Change title concise but include more message.
+* Add semantic codes like (header,nav,main,article,section, aside, footer).
+* Heading attributes are sequential order.
+* Add 'alt' attributes to in case of image is not load.
+* Elements follow a logical structure.
 
 
 
 ---
 
-## 💡 Hints
-
-Why is it important that each global attribute is given a unique name?
-
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
-
-* What other attributes can be used with HTML elements?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Extra Information
+* Write comments on CSS to find easy and more information.
+* Make application's links all function correctly.
