@@ -38,4 +38,4 @@ SO THAT our own site is optimized for search engines
 
 ---
 
-Deployment: 
+Deployment: https://donglee0415.github.io/First-step-for-my-future/
